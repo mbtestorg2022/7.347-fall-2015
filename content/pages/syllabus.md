@@ -57,18 +57,177 @@ The class is graded on a pass / fail basis. To pass this course, students are ex
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the Course | &nbsp; |
-| 2 | Bacterial Effector Proteins that Hijack Host Cell Signaling: The Rho GTPase Story | &nbsp; |
-| 3 | Bacterial Toxins and their Impact on the Host Immune System | &nbsp; |
-| 4 | Feeling Ill: Common Human Pathogens that Infect the Mucosal Epithelium | &nbsp; |
-| 5 | Bacterial Pathogens and Innate Immunity: _Caenorhabditis Elegans–pseudomonas Aeruginosa_ Interactions as Model to Study Ancient Anti-bacterial Defense Mechamisms | &nbsp; |
-| 6 | Two Strategies, Same Outcome: How _Salmonella Typhimurium_ and _Neisseria Gonorrhoeae_ Resist the Host's Attempts to Clear them from Mucosal Layers | &nbsp; |
-| 7 | Oral Presentations | Oral presentations |
-| 8 | Innate Immune Responses at Intestinal Mucosal Surfaces | &nbsp; |
-| 9 | Antibody-mediated Mechanisms against Invasion by Bacteria | &nbsp; |
-| 10 | T-cell Responses at Intestinal Mucosal Surfaces | &nbsp; |
-| 11 | Interplay between Gut Microbiome and Lymphocyte Fate and Function | &nbsp; |
-| 12 | Dysbiosis and Autoimmune Conditions | &nbsp; |
-| 13 | Field trip to the laboratory of [Eric Alm](https://be.mit.edu/directory/eric-alm) at the [Broad Institute](http://www.broadinstitute.org/), Cambridge, MA | Written assignment due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Course
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Bacterial Effector Proteins that Hijack Host Cell Signaling: The Rho GTPase Story
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Bacterial Toxins and their Impact on the Host Immune System
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Feeling Ill: Common Human Pathogens that Infect the Mucosal Epithelium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Bacterial Pathogens and Innate Immunity: _Caenorhabditis Elegans–pseudomonas Aeruginosa_ Interactions as Model to Study Ancient Anti-bacterial Defense Mechamisms
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Two Strategies, Same Outcome: How _Salmonella Typhimurium_ and _Neisseria Gonorrhoeae_ Resist the Host's Attempts to Clear them from Mucosal Layers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Innate Immune Responses at Intestinal Mucosal Surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Antibody-mediated Mechanisms against Invasion by Bacteria
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+T-cell Responses at Intestinal Mucosal Surfaces
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Interplay between Gut Microbiome and Lymphocyte Fate and Function
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Dysbiosis and Autoimmune Conditions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the laboratory of [Eric Alm](https://be.mit.edu/directory/eric-alm) at the [Broad Institute](http://www.broadinstitute.org/), Cambridge, MA
+{{< tdclose >}}
+{{< tdopen >}}
+Written assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
